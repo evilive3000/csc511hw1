@@ -1,0 +1,14 @@
+gra   Ken        26  Journalism   Mediatopics
+phd   Roger      29  History      CivilWar      Henry-8th
+stu   Olga       20  Poultrysci
+gra   Tom        38  Shipping     MailService    
+phd   Rudolph    31  PLSC         Intern-Mktg   Ethics-Society
+phd   Sam        44  Mathematics  Galois-Fields Galois-Crypt
+stu   George     60  Preaching    
+gra   Tom        27  PreMed       Cytoplasm
+gra   Cheryl     25  Prelaw       Tort-Procedure
+stu   Renee      22  CPE     
+stu   Walter     21  Welding      
+gra   Michael    23  Militarysci  Mine-detection
+stu   Robert     23  Polisci
+
