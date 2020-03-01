@@ -1,6 +1,6 @@
 #CSC511  Programming Assignment #1 Spring 2020
-###4 points
-Due March 4, 2020 in class as hard copy printout
+
+_4 points. Due March 4, 2020 in class as hard copy printout_
 
 This is a signature assignment. 
 Its aim is to provide assessment for ITU of student proficiency in this course across various sections and terms of this course. 
