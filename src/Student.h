@@ -22,5 +22,4 @@ public:
     string getStatus();
 };
 
-
 #endif //CSC511HW1_STUDENT_H

@@ -19,10 +19,6 @@ void GradStudent::vprint() {
     cout << " " << thesis;
 }
 
-string GradStudent::getThesis() {
-    return thesis;
-}
+string GradStudent::getThesis() { return thesis; }
 
-string GradStudent::getStatus() {
-    return "GradStudent";
-}
+string GradStudent::getStatus() { return "GradStudent"; }

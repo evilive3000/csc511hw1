@@ -18,14 +18,8 @@ void Person::println() {
     cout << endl;
 }
 
-string Person::getName() {
-    return name;
-}
+string Person::getName() { return name; }
 
-int Person::getAge() {
-    return age;
-}
+int Person::getAge() { return age; }
 
-string Person::getStatus() {
-    return "Person";
-}
+string Person::getStatus() { return "Person"; }

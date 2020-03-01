@@ -20,10 +20,6 @@ void PhDStudent::vprint() {
     cout << " " << dissertation;
 }
 
-string PhDStudent::getDissertation() {
-    return dissertation;
-}
+string PhDStudent::getDissertation() { return dissertation; }
 
-string PhDStudent::getStatus() {
-    return "PhDStudent";
-}
+string PhDStudent::getStatus() { return "PhDStudent"; }

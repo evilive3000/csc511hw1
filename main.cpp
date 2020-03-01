@@ -1,9 +1,9 @@
+#include <set>
 #include <iostream>
 #include "src/Person.h"
 #include "src/Student.h"
 #include "src/GradStudent.h"
 #include "src/PhDStudent.h"
-#include <set>
 
 using namespace std;
 

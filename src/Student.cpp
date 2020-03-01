@@ -14,10 +14,6 @@ void Student::vprint() {
     cout << " " << discipline;
 }
 
-string Student::getMajor() {
-    return discipline;
-}
+string Student::getMajor() { return discipline; }
 
-string Student::getStatus() {
-    return "Student";
-}
+string Student::getStatus() { return "Student"; }

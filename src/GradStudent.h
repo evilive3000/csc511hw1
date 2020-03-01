@@ -1,7 +1,6 @@
 #ifndef CSC511HW1_GRADSTUDENT_H
 #define CSC511HW1_GRADSTUDENT_H
 
-
 #include "Student.h"
 
 class GradStudent : public Student {
@@ -20,6 +19,5 @@ public:
 
     string getStatus();
 };
-
 
 #endif //CSC511HW1_GRADSTUDENT_H

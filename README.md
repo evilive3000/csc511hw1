@@ -1,4 +1,4 @@
-#CSC511  Programming Assignment #1 Spring 2020
+#CSC511  Programming Assignment №1 Spring 2020
 
 _4 points. Due March 4, 2020 in class as hard copy printout_
 

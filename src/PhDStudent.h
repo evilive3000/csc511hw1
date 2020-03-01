@@ -19,5 +19,4 @@ public:
     string getStatus();
 };
 
-
 #endif //CSC511HW1_PHDSTUDENT_H
