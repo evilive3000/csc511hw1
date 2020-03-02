@@ -4,24 +4,24 @@
 using namespace std;
 
 class Person {
-    string name;
-    int age;
+  string name;
+  int age;
 public:
-    Person();
+  Person();
 
-    Person(string, int);
+  Person(string, int);
 
-    Person(Person &);
+  Person(Person &);
 
-    virtual void vprint();
+  virtual void vprint();
 
-    void println();
+  void println();
 
-    string getName();
+  string getName();
 
-    int getAge();
+  int getAge();
 
-    virtual string getStatus();
+  virtual string getStatus();
 };
 
 

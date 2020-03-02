@@ -4,19 +4,19 @@
 #include "GradStudent.h"
 
 class PhDStudent : public GradStudent {
-    string dissertation;
+  string dissertation;
 public:
-    PhDStudent();
+  PhDStudent();
 
-    PhDStudent(string, int, string, string, string);
+  PhDStudent(string, int, string, string, string);
 
-    PhDStudent(PhDStudent &);
+  PhDStudent(PhDStudent &);
 
-    void vprint();
+  void vprint();
 
-    string getDissertation();
+  string getDissertation();
 
-    string getStatus();
+  string getStatus();
 };
 
 #endif //CSC511HW1_PHDSTUDENT_H

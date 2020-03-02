@@ -7,19 +7,19 @@
 using namespace std;
 
 class Student : public Person {
-    string discipline;
+  string discipline;
 public:
-    Student();
+  Student();
 
-    Student(string, int, string);
+  Student(string, int, string);
 
-    Student(Student &);
+  Student(Student &);
 
-    void vprint();
+  void vprint();
 
-    string getMajor();
+  string getMajor();
 
-    string getStatus();
+  string getStatus();
 };
 
 #endif //CSC511HW1_STUDENT_H
