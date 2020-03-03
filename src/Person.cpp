@@ -10,12 +10,12 @@ Person::Person(string name, int age) : name(name), age(age) {}
 Person::Person(Person &p) : name(p.name), age(p.age) {}
 
 void Person::vprint() {
-    cout << getStatus() << ": " << name << " " << age;
+  cout << getStatus() << ": " << name << " age:" << age;
 }
 
 void Person::println() {
-    vprint();
-    cout << endl;
+  vprint();
+  cout << endl;
 }
 
 string Person::getName() { return name; }
