@@ -1,0 +1,10 @@
+GradStudent: Ken age:26 mj:Journalism th:Mediatopics
+PhDStudent: Roger age:29 mj:History th:CivilWar diss:Henry-8th
+Student: Olga age:20 mj:Poultrysci
+GradStudent: Tom age:38 mj:Shipping th:MailService
+PhDStudent: Rudolph age:31 mj:PLSC th:Intern-Mktg diss:Ethics-Society
+PhDStudent: Sam age:44 mj:Mathematics th:Galois-Fields diss:Galois-Crypt
+Student: George age:60 mj:Preaching
+GradStudent: Tom age:27 mj:PreMed th:Cytoplasm
+GradStudent: Cheryl age:25 mj:Prelaw th:Tort-Procedure
+Student: Renee age:22 mj:CPE
